@@ -1,6 +1,6 @@
 # EcommerceStore
 
-Watch tutorial on how I built this store => https://youtu.be/-QV07KcnJEk
+An Angular mini-project for me to practice on building an ecommerce store using Tailwind CSS and Stripe API for payment.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.0.
 
